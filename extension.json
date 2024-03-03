@@ -1,7 +1,7 @@
 {
   "name": "Odin",
   "version": "0.0.1",
-  "authors": ["Dora Akbulut <akbulutdora@gmail.com>"],
+  "authors": ["thoughtassault <akbulutdora@gmail.com>"],
   "description": "Odin language support for Zed",
   "repository": "https://github.com/akbulutdora/zed-odin",
   "languages": {

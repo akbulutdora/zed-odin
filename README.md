@@ -1,1 +1,1 @@
-This extension adds support for the [Odin](https://odin-lang.org/) language for [Zed]([zed.dev](https://zed.dev)https://zed.dev).
+This extension adds support for the [Odin](https://odin-lang.org/) language for [Zed](https://zed.dev).
